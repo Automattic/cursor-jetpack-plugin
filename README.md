@@ -2,6 +2,8 @@
 
 Connect [Cursor](https://cursor.com) to WordPress.com through the official WordPress.com Model Context Protocol (MCP) server.
 
+[**View the WordPress.com plugin on the Cursor Marketplace &rarr;**](https://cursor.com/marketplace/wordpress)
+
 ## Build & Publish with WordPress
 
 Tell Cursor what kind of WordPress.com site you want—such as a portfolio, restaurant site, blog, or store—and provide the business, audience, and page requirements. WordPress can plan the site, prepare its content and design, and launch it.
