@@ -2,7 +2,7 @@
   "name": "jetpack",
   "displayName": "Jetpack",
   "version": "0.1.0",
-  "description": "Connect your WordPress site to Cursor with Jetpack AI. Publish and update content, manage plugins and settings, and work through routine admin without jumping into WordPress for every change.\n\nJetpack's Claude connector uses the full WordPress.com MCP toolkit, which means you can also control any WordPress.com sites that you have from the same plugin.\n\nRequires the Jetpack plugin to be active on your site.",
+  "description": "Connect your WordPress site to Cursor with Jetpack AI. Publish and update content, manage plugins and settings, and work through routine admin without jumping into WordPress for every change.\n\nJetpack's Cursor connector uses the full WordPress.com MCP toolkit, which means you can also control any WordPress.com sites that you have from the same plugin.\n\nRequires the Jetpack plugin to be active on your site.",
   "author": {
     "name": "Automattic"
   },
