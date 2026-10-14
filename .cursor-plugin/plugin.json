@@ -1,20 +1,20 @@
 {
-  "name": "wordpress-com",
-  "displayName": "WordPress.com",
+  "name": "jetpack",
+  "displayName": "Jetpack",
   "version": "0.1.0",
-  "description": "Build, publish, and manage WordPress.com sites directly from Cursor.",
+  "description": "Build, publish, and manage WordPress sites directly from Cursor.",
   "author": {
     "name": "Automattic"
   },
-  "repository": "https://github.com/Automattic/cursor-wpcom-plugin",
-  "homepage": "https://wordpress.com",
+  "repository": "https://github.com/Automattic/cursor-jetpack-plugin",
+  "homepage": "https://jetpack.com",
   "license": "GPL-2.0-or-later",
   "logo": "assets/logo.svg",
   "skills": "skills",
   "mcpServers": "mcp.json",
   "commands": "commands",
   "keywords": [
-    "wordpress.com",
+    "jetpack",
     "wordpress",
     "content-management",
     "site-management",
